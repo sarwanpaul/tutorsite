@@ -594,3 +594,9 @@ main#main{background-color: #edeff0;}
 /*End Language Tab*/
 
 /* Start Srwn */
+.subject__in{position: relative;}
+.subject__in:before{content: "";background-image: url(../img/img.jpg);background-repeat: no-repeat;background-size: 25px; position: absolute;height: 25px; width: 25px;}
+@media screen and (max-width: 660px){
+  .col-md-4.col-language{width: 100% !important}
+
+}

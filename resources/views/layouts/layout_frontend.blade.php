@@ -13,6 +13,7 @@
     <!-- Font Awesome -->
     <link href="{{asset('public/vendors/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
     <link href="{{asset('public/css/style.css')}}" rel="stylesheet">
+    <link href="{{asset('public/css/font-awesome.min.css')}}" rel="stylesheet">
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
       

@@ -13,6 +13,7 @@
             </div>
             <div class="col-md-2 col-lg-2 searchbutton">
               <button>Find a tutor</button>
+
             </div>
         </div>
     </div>    
@@ -123,6 +124,7 @@
                         </div>
                         <div class="col-md-4 col-xs-12 col-lg-4 col-sm-6 col-language">
                           <a class="subject js-ga-send" href="/en/skype/english-tutors" data-ga-action="MainPage" data-ga-label="Language_english">
+                          <!--<i class="fa fa-bank" aria-hidden="true"></i>-->
                               <div class="subject__in">
                                   <div class="subject__icon">
                                       <i class="ico ico--sub-english"></i>
