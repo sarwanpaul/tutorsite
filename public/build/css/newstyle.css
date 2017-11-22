@@ -1,0 +1,12 @@
+.glyphicon-edit{
+  color: green;
+  font-weight: 800;
+  font-size: 16px;
+  cursor: pointer;
+}
+.glyphicon-trash{
+  color: red;
+  font-weight: 800;
+  font-size: 16px;
+  cursor: pointer;
+}
